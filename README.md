@@ -32,11 +32,11 @@ cd anitas-kitchen
 
 ## Screenshots
              
-  ![Alt](img/sshot1.jpg)  
-  ![Alt](img/sshot2.jpg)
-  ![Alt](img/sshot3.jpg)
-  ![Alt](img/sshot4.jpg)
-  ![Alt](img/sshot5.jpg)
+  ![Alt](sshot1.jpg)  
+  ![Alt](sshot2.jpg)
+  ![Alt](sshot3.jpg)
+  ![Alt](sshot4.jpg)
+  ![Alt](sshot5.jpg)
  
 
 ## Author
