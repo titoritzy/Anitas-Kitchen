@@ -179,13 +179,13 @@ body {
     font-size: 0;
     margin-left: 80px;
 }
-/* menu section */
+/* menu  */
 
 .menu {
     margin-top: 50px;
     background-color: rgba(153, 147, 147, 0.79);
     background-blend-mode: overlay;
-    background-image: url("./img/bg/1.jpg");
+    background-image: url("backgrounds/foodsBg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
