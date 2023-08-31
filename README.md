@@ -32,14 +32,12 @@ cd anitas-kitchen
 
 ## Screenshots
              
-  ![Alt](img/screenshots/Capture-an-1.PNG)  
-  ![Alt](img/screenshots/Capture-an-2.PNG)
-  ![Alt](img/screenshots/Capture-an-3.PNG)
-  ![Alt](img/screenshots/Capture-an-4.PNG)
-  ![Alt](img/screenshots/Capture-an-5.PNG)
-  ![Alt](img/screenshots/Capture-an-6.PNG)
-  ![Alt](img/screenshots/Capture-an-7.PNG)
-  ![Alt](img/screenshots/Capture-an-8.PNG)
+  ![Alt](sshot1.jpg)  
+  ![Alt](sshot2.jpg)
+  ![Alt](sshot3.jpg)
+  ![Alt](sshot4.jpg)
+  ![Alt](sshot5.jpg)
+ 
 
 ## Author
 * Titus Kithome
