@@ -321,7 +321,7 @@ th {
 
 /* subscribe */
 .subscribe {
-    background-image: url("./img/bg/3.jpg");
+    background-image: url("backgrounds/subscribe.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
