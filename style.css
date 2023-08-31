@@ -12,7 +12,7 @@ body {
     color: #f15a29;
 }
 .home {
-    background-image: url("./img/bg/2.jpg");
+    background-image: url("backgrounds/landing.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -83,16 +83,16 @@ body {
 }
 
 #breakfast {
-    background-image: url("./img/foodtop/breakfast.jpg");
+    background-image: url("foodtop/breakfast.jpg");
 }
 
 #lunch {
-    background-image: url("./img/foodtop/lunch.jpg");
+    background-image: url("foodtop/lunch.jpg");
     opacity: 0.5;
 }
 
 #dinner {
-    background-image: url("./img/foodtop/dinner.jpg");
+    background-image: url("foodtop/dinner.jpg");
 }
 /* food section */
 
