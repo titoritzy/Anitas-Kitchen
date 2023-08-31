@@ -1,0 +1,391 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.outline {
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    background-color: transparent;
+    border: solid 1px #f15a29;
+    color: #f15a29;
+}
+.home {
+    background-image: url("./img/bg/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: serif;
+    height: 600px;
+}
+.nav_icon img {
+    height: 40px !important;
+    padding: 40px;
+}
+.logo {
+    text-align: center;
+    padding-top: 45px;
+}
+.logo h2 {
+    font-weight: 100;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+.home span {
+    font-weight: bold;
+}
+.service {
+    display: flex;
+    flex-direction: row;
+    height: 170px;
+    padding-top: 0;
+    margin-top: 0;
+    padding-bottom: 20px !important;
+}
+#happy_party {
+    width: 31%;
+}
+#breakfast,
+#lunch,
+#dinner {
+    width: 23%;
+}
+
+#breakfast,
+#lunch,
+#dinner {
+    color: white;
+    font-style: italic;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: fit-content;
+    padding: 66px;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+
+#happy {
+    background-color: lightgray;
+    padding: 16px;
+    text-align: center;
+}
+
+#party {
+    background-color: #f15a29;
+    color: white;
+    padding: 16px;
+    text-align: center;
+}
+
+#breakfast {
+    background-image: url("./img/foodtop/breakfast.jpg");
+}
+
+#lunch {
+    background-image: url("./img/foodtop/lunch.jpg");
+    opacity: 0.5;
+}
+
+#dinner {
+    background-image: url("./img/foodtop/dinner.jpg");
+}
+/* food section */
+
+.food {
+    margin-top: 50px;
+    padding: 50px;
+    display: flex;
+}
+
+.img_block {
+    border: 10px solid white;
+    border-radius: 2px;
+    box-shadow: 0px 0px 6px grey;
+    font-size: 0;
+    margin-left: 55px;
+    width: 50%;
+}
+
+.text_block {
+    margin-left: 45px;
+}
+
+.text_block h1 {
+    font-weight: bolder;
+    color: rgb(80, 77, 77);
+}
+
+.text_block h4 {
+    font-weight: 700;
+    color: rgb(80, 77, 77);
+}
+
+.text_block p {
+    float: left;
+    width: 95%;
+    font-weight: 100;
+    font-size: small;
+    font-family: "Quicksand", sans-serif;
+    line-height: 20px;
+}
+#btn {
+    margin-top: 220px;
+}
+/* Drink styles */
+
+.drink {
+    margin-top: 10px;
+    padding: 0px 20px 20px 20px;
+    display: flex;
+}
+
+.drink_text_block {
+    width: 90%;
+    text-align: right;
+}
+
+.drink_text_block p {
+    margin-left: 100px;
+    font-weight: 100;
+    font-family: "Quicksand", sans-serif;
+    font-size: small;
+    line-height: 20px;
+}
+
+.drink_text_block h1 {
+    font-weight: bolder;
+    color: rgb(80, 77, 77);
+}
+
+.drink_text_block h4 {
+    font-weight: 700;
+    color: rgb(80, 77, 77);
+}
+
+#btn2 {
+    margin-top: 27px;
+}
+
+.img_block2 {
+    display: flex;
+    border: 15px solid white;
+    border-radius: 2px;
+    box-shadow: 0px 0px 6px rgb(126, 125, 125);
+    font-size: 0;
+    margin-left: 80px;
+}
+/* menu section */
+
+.menu {
+    margin-top: 50px;
+    background-color: rgba(153, 147, 147, 0.79);
+    background-blend-mode: overlay;
+    background-image: url("./img/bg/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 120px;
+    height: 350px;
+}
+
+th {
+    padding: 10px;
+    background-color: rgb(204, 204, 204);
+}
+
+#category {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#category tr th {
+    border-right: 0.1px solid rgb(175, 175, 175);
+}
+
+
+#ff {
+    color: #f15a29;
+    background-color: white;
+}
+
+.img_res {
+    background-color: white;
+    box-sizing: border-box;
+    padding: 26px;
+}
+
+.menu_div_list {
+    color: #f15a29;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+}
+
+.menu_div_list h5 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.menu_div_list p {
+    font-size: 30px;
+    font-weight: 900 !important;
+}
+
+.list_img {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    margin: 5px;
+}
+/* customer styles */
+
+.customers {
+    height: auto;
+    width: auto;
+    padding: 120px 120px 40px;
+    padding-top: 50px;
+    background-color: white;
+}
+
+.reviews_about {
+    height: 280px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    border-radius: 2px;
+    box-shadow: 0px 0px 5px rgb(87, 83, 83);
+    padding: 20px;
+}
+
+#about p {
+    font-family: "Quicksand", sans-serif;
+    font-size: small;
+    line-height: 20px;
+}
+
+#p_review {
+    font-family: "Quicksand", sans-serif;
+    font-size: small;
+    line-height: 20px;
+}
+
+#reviews,
+#about {
+    text-align: center;
+    font-size: 15px;
+}
+
+#reviews {
+    flex: 2;
+    margin-right: 38px;
+    text-align: center;
+}
+
+#about {
+    flex: 2;
+    margin-left: 40px;
+}
+
+#line {
+    border-left: 1px solid rgb(212, 212, 212);
+}
+
+#reviews h3,
+#about h3 {
+    color: #f15a29;
+}
+
+.image_container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.image_container p {
+    margin: 10px;
+    font-weight: bolder;
+    color: #f15a29;
+    font-size: 20px;
+}
+
+.image_container img {
+    margin: 5px;
+}
+
+/* subscribe */
+.subscribe {
+    background-image: url("./img/bg/3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+}
+
+.sub_center {
+    text-align: center;
+    padding-top: 60px;
+    color: white;
+}
+
+.form-input {
+    height: 30px;
+    width: 350px;
+    background-color: rgb(88, 87, 87);
+    border: none;
+    margin-top: 5px;
+    margin: 20px;
+    opacity: 0.5;
+}
+
+.sub {
+    height: 30px;
+    width: 150px;
+    background-color: #f15a29;
+    border: none;
+    color: white;
+    font-weight: 800;
+}
+
+::placeholder {
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    opacity: 1;
+    padding-left: 20px;
+}
+
+/* footer */
+
+.footer {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 18px;
+    color: white;
+    background-color: #f15a29;
+    height: 250px;
+}
+
+.footer h1 {
+    margin-left: 10px;
+    font-weight: 400;
+}
+
+#logo_bottom {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#logo_company {
+    color: red !important;
+}
+
+#copyright {
+    font-size: 15px;
+}
